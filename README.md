@@ -1,4 +1,4 @@
-<h1>Hi, I'm Khalil, an <a href="https://linkedin.com/in/Khalil">IT Professional</a>☺</h1>
+<h1>Hi, I'm Khalil, an <a href="https://www.linkedin.com/in/khalil-poole/">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
