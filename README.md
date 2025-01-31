@@ -7,7 +7,7 @@
   - [osTicket: Post-Installation Configuration](https://github.com/khalil-poole/osTicket-post-installation)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/khalil-poole/osTicket-Creating-Working-and-Completing)
 - <b>Microsoft Azure</b>
-  - [Observing Network Traffic within Azure VMs](https://github.com/khalil-poole/azure-computing)
+  - [Exploring Azure and Networking Concepts](https://github.com/khalil-poole/azure-computing)
 
 <h2>🤳Connect with me:</h2>
 
