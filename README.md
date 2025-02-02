@@ -8,6 +8,8 @@
   - [osTicket: Ticket Lifecycle Examples](https://github.com/khalil-poole/osTicket-Creating-Working-and-Completing)
 - <b>Microsoft Azure</b>
   - [Exploring Azure and Networking Concepts](https://github.com/khalil-poole/azure-computing)
+- <b>Active Directory</b>
+  - [Preparing AD Infrastructure in Azure](https://github.com/khalil-poole/ActiveDirectory-Preperaring-AD-Infrastructure)
 
 <h2>🤳Connect with me:</h2>
 
