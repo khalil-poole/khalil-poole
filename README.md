@@ -10,6 +10,7 @@
   - [Exploring Azure and Networking Concepts](https://github.com/khalil-poole/azure-computing)
 - <b>Active Directory</b>
   - [Preparing AD Infrastructure in Azure](https://github.com/khalil-poole/ActiveDirectory-Preperaring-AD-Infrastructure)
+  - [Deployment with Active Directory](https://github.com/khalil-poole/ActiveDirectory-Deployment)
 
 <h2>🤳Connect with me:</h2>
 
@@ -17,6 +18,5 @@
 [<img align="left" alt="Khalil | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Khalil | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://x.com/KP_Develops
 [instagram]: https://www.instagram.com/kp_dfw/
 [linkedin]: https://www.linkedin.com/in/khalil-poole/
