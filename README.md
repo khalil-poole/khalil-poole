@@ -11,7 +11,8 @@
 - <b>Active Directory</b>
   - [Preparing AD Infrastructure in Azure](https://github.com/khalil-poole/ActiveDirectory-Preperaring-AD-Infrastructure)
   - [Deployment with Active Directory](https://github.com/khalil-poole/ActiveDirectory-Deployment)
-  - [Creating Users With Powershell](https://github.com/khalil-poole/ActiveDirectory-Creating-Users-With-Powershell/tree/main)
+  - [Creating Users With Powershell](https://github.com/khalil-poole/ActiveDirectory-Creating-Users-With-Powershell/)
+  - [Group Policy and Managing Accounts](https://github.com/khalil-poole/Group-Policy-And-Managing-Accounts)
 
 <h2>🤳Connect with me:</h2>
 
