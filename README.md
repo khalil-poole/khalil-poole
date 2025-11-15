@@ -13,7 +13,7 @@
   - [Deployment with Active Directory](https://github.com/khalil-poole/ActiveDirectory-Deployment)
   - [Creating Users With Powershell](https://github.com/khalil-poole/ActiveDirectory-Creating-Users-With-Powershell/)
   - [Group Policy and Managing Accounts](https://github.com/khalil-poole/Group-Policy-And-Managing-Accounts)
-  - [Network Sharing & Permissions]()
+  - [Network Sharing & Permissions](https://github.com/khalil-poole/Network-Sharing-And-Permissions)
 <h2>🤳Connect with me:</h2>
 
 [<img align="left" alt="Khalil | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
